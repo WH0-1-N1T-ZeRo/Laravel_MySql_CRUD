@@ -1,0 +1,124 @@
+{
+    "kelas": [
+        {
+            "id": 1,
+            "nama": "Kelas 10A",
+            "siswa": [
+                {
+                    "id": 101,
+                    "nama": "Zainal Abidin",
+                    "nilai": {
+                        "matematika": {
+                            "latihan_soal": [
+                                80,
+                                85,
+                                90,
+                                75
+                            ],
+                            "ulangan_harian": [
+                                70,
+                                75
+                            ],
+                            "ulangan_tengah_semester": 85,
+                            "ulangan_semester": 88
+                        },
+                        "bahasa_indonesia": {
+                            "latihan_soal": [
+                                75,
+                                78,
+                                82,
+                                80
+                            ],
+                            "ulangan_harian": [
+                                68,
+                                72
+                            ],
+                            "ulangan_tengah_semester": 80,
+                            "ulangan_semester": 85
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nama": "Kelas 10A",
+            "siswa": [
+                {
+                    "id": 102,
+                    "nama": "Gilang Saputra",
+                    "nilai": {
+                        "matematika": {
+                            "latihan_soal": [
+                                90,
+                                85,
+                                80,
+                                75
+                            ],
+                            "ulangan_harian": [
+                                80,
+                                75
+                            ],
+                            "ulangan_tengah_semester": 95,
+                            "ulangan_semester": 88
+                        },
+                        "bahasa_indonesia": {
+                            "latihan_soal": [
+                                95,
+                                78,
+                                82,
+                                80
+                            ],
+                            "ulangan_harian": [
+                                78,
+                                92
+                            ],
+                            "ulangan_tengah_semester": 80,
+                            "ulangan_semester": 85
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nama": "Kelas 10A",
+            "siswa": [
+                {
+                    "id": 103,
+                    "nama": "Zidan Nur Arifin",
+                    "nilai": {
+                        "matematika": {
+                            "latihan_soal": [
+                                90,
+                                85,
+                                60,
+                                75
+                            ],
+                            "ulangan_harian": [
+                                80,
+                                75
+                            ],
+                            "ulangan_tengah_semester": 85,
+                            "ulangan_semester": 88
+                        },
+                        "bahasa_indonesia": {
+                            "latihan_soal": [
+                                75,
+                                78,
+                                82,
+                                90
+                            ],
+                            "ulangan_harian": [
+                                88,
+                                72
+                            ],
+                            "ulangan_tengah_semester": 80,
+                            "ulangan_semester": 95
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
